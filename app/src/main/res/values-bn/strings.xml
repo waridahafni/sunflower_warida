@@ -35,13 +35,13 @@
     <!-- String plurals and their related prefix / suffix strings -->
     <string name="watering_needs_prefix">জল দেয়া প্রয়োজন</string>
     <plurals name="watering_needs_suffix">
-        <item quantity="one">%d প্রতি দিন</item>
-        <item quantity="other">%d প্রতি %d দিন</item>
+        <item quantity="one"> প্রতি দিন</item>
+        <item quantity="other"> প্রতি %d দিন</item>
     </plurals>
 
     <plurals name="watering_next">
-        <item quantity="one">%d আগামী কাল জল দিন।</item>
-        <item quantity="other">%d জল দিন %d দিন পর।</item>
+        <item quantity="one"> আগামী কাল জল দিন।</item>
+        <item quantity="other"> জল দিন %d দিন পর।</item>
     </plurals>
 
     <!-- Accessibility -->
