@@ -51,7 +51,7 @@ fun PlantListScreen(
     onPlantClick: (Plant) -> Unit = {},
 ) {
     LazyVerticalGrid(
-        columns = GridCells.Fixed(2),
+        columns = GridCells.Fixed(3),
         modifier = modifier.testTag("plant_list"),
         contentPadding = PaddingValues(
             horizontal = dimensionResource(id = R.dimen.card_side_margin),
