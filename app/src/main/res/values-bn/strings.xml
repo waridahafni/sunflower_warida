@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="gallery_title">গ্যাল</string>
+    <string name="gallery_title">গ্যাল.</string>
 
     <!-- Translatable resources -->
     <string name="menu_filter_by_grow_zone">গাছ বৃদ্ধি এলাকা বাছাই</string>
